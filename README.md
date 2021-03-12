@@ -64,6 +64,12 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    23. [Jobs y Cronjobs](./kubernetes/23) / [video](https://youtu.be/9Dl-okb4gm4)
    24. [Thanos](./kubernetes/24) / [video](https://youtu.be/NfP_8lsHXkU)
    25. [HPA 2: Custom metrics](./kubernetes/25) / [video](https://youtu.be/whWFJNzBPu0)
+   26. [ArgoCD](./kubernetes/26) / [video](https://youtu.be/e6Wmu77HoV8)
+   27. [Pod Priorities](./kubernetes/27) / [video](https://youtu.be/s9Z-YluUOuw)
+   28. [Pod Disruption Budgets](./kubernetes/28) / [video](https://youtu.be/2tv1nhJuuJU)
+   29. [k0s](./kubernetes/29) / [video](https://youtu.be/netJ0Nuj_tw)
+   30. [istio](./kubernetes/30) / [video](https://youtu.be/ofJ5swfP2kQ)
+   31. [Bootstrap Apps en Kubernetes](./kubernetes/31) / [video](https://youtu.be/ZjnMpMXmKZQ)
 
 4. Varios
    1. [Creá tu sitio con SSL gratis con Docker y Let's encrypt](./varios/1) / [video](https://youtu.be/S2YFqf4L7l8)
@@ -75,6 +81,9 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    7. [Podman](./varios/7) / [video](https://youtu.be/l6Bgd7Y8pgE)
    8. [GitHub Actions](https://github.com/pablokbs/prueba-gha) / [video](https://youtu.be/MNBf-ylhtK0)
    9. [Transmission Bot para Telegram](./varios/9) / [video](https://youtu.be/FQMVFyJnQsY)
+   10. [CoreDNS](./varios/10) / [video](https://youtu.be/tE9YjEV1T4E)
+   11. [RCA](./varios/11) / [video](https://youtu.be/ErbOF56SAWE)
+   12. [WireGuard + PiHole](./varios/12) / [video](https://youtu.be/R29YBmYxXAk)
 
 5. Viernes 2 Minutos
    1. [Docker-compose override](./v2m/1) / [video](https://youtu.be/TPmbwAgN4ZA)
@@ -107,6 +116,11 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    29. [Swarmpit](./v2m/29) / [video](https://youtu.be/f2gmhiYBW8Y)
    30. [Kompose](./v2m/30) / [video](https://youtu.be/JHdnasrZKyU)
    31. [Cert-manager en Kubernetes](./v2m/31) / [video](https://youtu.be/ZKrC261Rxqo)
+   32. [Nginx-Proxy-Manager](./v2m/32) / [video](https://youtu.be/0n9DLj2ndo4)
+   33. [Gemini](./v2m/33) / [video](https://youtu.be/nSdzAcCXLxE)
+   34. [ImagePullSecret-Patcher](./v2m/34) / [video](https://youtu.be/e_cBicVb0E0)
+   35. [MinIO](./v2m/35) / [video](https://youtu.be/_QHUR2VFmfo)
+   36. [Gaming en Kubernetes - Additronk8s](./v2m/36) / [video](https://youtu.be/9c3Cff4xb1k)
 
 6. Terraform
    1. [Terraform 1](./terraform/1) / [video](https://youtu.be/1itPqkU8XZw)
