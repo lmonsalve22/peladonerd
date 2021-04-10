@@ -1,4 +1,4 @@
-FROM python:3.8.2-buster
+FROM python:3.10.0a6-buster
 RUN pip install redis
 COPY ./worker.py /worker.py
 COPY ./rediswq.py /rediswq.py
