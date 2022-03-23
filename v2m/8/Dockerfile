@@ -1,4 +1,4 @@
-FROM alpine:3.12.0
+FROM alpine:3.14.4
 
 ARG RSNAPSHOT_VERSION=latest
 
