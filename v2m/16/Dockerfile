@@ -1,4 +1,4 @@
-FROM httpd:alpine
+FROM httpd:2-alpine3.19
 
 RUN apk add --no-cache openssh supervisor
 
